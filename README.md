@@ -119,4 +119,4 @@ allure open reports/allure-report
 * JSON schemas validate API responses.
 * Constants and endpoints are centralized in `constants.py` for maintainability.
 * The project demonstrates **automation best practices**, CI/CD integration, and structured test reporting.
-* Voice model: https://alphacephei.com/vosk/models -> vosk-model-small-en-us-0.15
+* Voice Model: https://alphacephei.com/vosk/models -> vosk-model-small-en-us-0.15
