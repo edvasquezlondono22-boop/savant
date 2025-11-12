@@ -1,7 +1,7 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Nov 12 00:48:44 UTC 2025","Wed Nov 12 00:48:45 UTC 2025","1231","tests","test_voice","","","","test_tts_and_asr","
+"passed","Wed Nov 12 00:52:06 UTC 2025","Wed Nov 12 00:52:07 UTC 2025","1055","tests","test_voice","","","","test_tts_and_asr","
     Validate that Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) work correctly.
     "
-"passed","Wed Nov 12 00:48:44 UTC 2025","Wed Nov 12 00:48:44 UTC 2025","7","tests","test_api","","","","test_chat_api_response_time","
+"passed","Wed Nov 12 00:52:06 UTC 2025","Wed Nov 12 00:52:06 UTC 2025","8","tests","test_api","","","","test_chat_api_response_time","
     Validate that the chat endpoint returns a valid response quickly and conforms to the schema.
     "
