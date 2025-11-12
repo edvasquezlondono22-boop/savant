@@ -1,0 +1,2 @@
+{'text': 'hello'}
+🛑 FastAPI server stopped.
